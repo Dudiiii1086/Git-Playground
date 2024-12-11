@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "git playground",
+  "namespace": "",
+  "sfdcLoginUrl": "https://wise-wolf-71b3d8-dev-ed.trailblaze.lightning.force.com/",
+  "sourceApiVersion": "62.0"
+}
